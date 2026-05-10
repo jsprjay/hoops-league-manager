@@ -1,1 +1,0 @@
-# hoops-league-manager
