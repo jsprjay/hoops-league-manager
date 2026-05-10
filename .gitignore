@@ -34,3 +34,6 @@ obj/
 # Temporary files
 tmp/
 temp/
+
+# Vite cache
+.vite/
