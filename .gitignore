@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Angular
+.angular/
+
+# Coverage
+coverage/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# .NET
+bin/
+obj/
+
+# Temporary files
+tmp/
+temp/
